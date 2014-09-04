@@ -12,8 +12,8 @@
     {% block css %}{% endblock %}
   </head>
   <body>
-    <header style="background-image:url(http://lanyucx.github.io/ty/image/ty/1px.png);">
-      <div id="menu" style="background-image:url(http://lanyucx.github.io/ty/image/ty/1px.png);">
+    <header style="background-image:url(http://lanyucx.github.io/ty/image/1px.png);">
+      <div id="menu" style="background-image:url(http://lanyucx.github.io/ty/image/1px.png);">
         <div id="name">鞍山添赢汽车配件制造有限公司</div>
         <nav>
           <ul>
