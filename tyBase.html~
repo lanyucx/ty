@@ -12,19 +12,19 @@
     {% block css %}{% endblock %}
   </head>
   <body>
-    <header style="background-image:url({{MEDIA_URL}}image/ty/1px.png);">
-      <div id="menu" style="background-image:url({{MEDIA_URL}}image/ty/1px.png);">
+    <header style="background-image:url(http://lanyucx.github.io/ty/image/ty/1px.png);">
+      <div id="menu" style="background-image:url(http://lanyucx.github.io/ty/image/ty/1px.png);">
         <div id="name">鞍山添赢汽车配件制造有限公司</div>
         <nav>
           <ul>
-            <li><a href="/tyIndex/">网站首页</a></li>
-            <li><a href="/tyPro/">挂车系列</a></li>            
-            <li><a href="/tyPro/">生产设备</a></li>
-            <li><a href="/tyQua1/">资质荣誉</a></li>
-            <li><a href="/tyVi/">视频</a></li>
-            <li><a href="/tyNews1/">新闻中心</a></li>
-            <li><a href="/tyRec1/">人才招聘</a></li>
-            <li><a href="/tyUs/">联系我们</a></li>           
+            <li><a href="http://lanyucx.github.io/ty/">网站首页</a></li>
+            <li><a href="http://lanyucx.github.io/ty/tyPro/">挂车系列</a></li>            
+            <li><a href="http://lanyucx.github.io/ty/tyPro/">生产设备</a></li>
+            <li><a href="http://lanyucx.github.io/ty/tyQua1/">资质荣誉</a></li>
+            <li><a href="http://lanyucx.github.io/ty/tyVi/">视频</a></li>
+            <li><a href="http://lanyucx.github.io/ty/tyNews1/">新闻中心</a></li>
+            <li><a href="http://lanyucx.github.io/ty/tyRec1/">人才招聘</a></li>
+            <li><a href="http://lanyucx.github.io/ty/tyUs/">联系我们</a></li>           
           </ul>
         </nav>
       </div>
