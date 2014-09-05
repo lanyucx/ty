@@ -46,21 +46,17 @@
     </header>
 
     <section>
-   <div class="rec_a">
-     <div style="background-image:url(http://lanyucx.github.io/ty/image/1px.jpg);">
-       <a href="http://lanyucx.github.io/ty/tyRec1">招聘信息</a>
+   <div class="qua_a">
+     <div style="background-image:url({{MEDIA_URL}}image/ty/1px.jpg);">
+       <a href="/tyQua1/">公司资质</a>
      </div>
-     <div style="background-image:url(http://lanyucx.github.io/ty/image/1px.jpg);">
-       <a href="http://lanyucx.github.io/ty/tyRec2">人才理念</a>
-     </div>
-     <div style="background-image:url(http://lanyucx.github.io/ty/image/1px.jpg);">
-       <a href="http://lanyucx.github.io/ty/tyRec3">员工福利</a>
+     <div style="background-image:url({{MEDIA_URL}}image/ty/1px.jpg);">
+       <a href="/tyQua2/">公司荣誉</a>
      </div>
    </div>
-   <div class="rec_b">
-     {% block rec %}{% endblock %}
+   <div class="qua_b">
+   <div class="title_a" style="background-image:url({{MEDIA_URL}}image/ty/1px.jpg);">公司资质</div> 
    </div>
-
       <div id="clear"></div>
     </section>
 
@@ -73,5 +69,8 @@
 
   </body>
 </html>
+
+
+
 
 
