@@ -1,12 +1,12 @@
-{% extends "tyBase.html" %}
+<!DOCTYPE html>
 
-{% block huan %}
+<body>
+<html>
    <div class="main">
      <img src="http://lanyucx.github.io/ty/image/index.jpg"/>
    </div>
-{% endblock %}
 
-{% block content %}
+   <section>
    <div class="jianjie">
      <p class="p0" style="background-image:url(http://lanyucx.github.io/ty/image/1px.jpg);">Company profile 公司简介</p>
      <p class="p1">鞍山添赢汽车配件制造有限公司位于台安县工业园区，省道102线新台镇，距台安高速出口4公里，地理位置优越，交通十分便利。</p>
@@ -60,4 +60,7 @@
        $('.div2 img').css('height','120px');
      })
    </script>
-{% endblock %}
+      <div id="clear"></div>
+    </section>
+  </body>
+</html>
