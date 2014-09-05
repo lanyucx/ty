@@ -8,8 +8,6 @@
     <script src="http://lanyucx.github.io/ty/js/jquery-2.0.3.min.js"></script>
     <script src="http://lanyucx.github.io/ty/js/ty.js"></script>
     <link rel="stylesheet" href="http://lanyucx.github.io/ty/css/ty.css"/>
-    {% block js %}{% endblock %}
-    {% block css %}{% endblock %}
   </head>
   <body>
     <header style="background-image:url(http://lanyucx.github.io/ty/image/1px.png);">
