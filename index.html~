@@ -15,7 +15,7 @@
         <div id="name">鞍山添赢汽车配件制造有限公司</div>
         <nav>
           <ul>
-            <li><a href="http://lanyucx.github.io/ty">网站首页</a></li>
+            <li style="background:red;"><a href="http://lanyucx.github.io/ty">网站首页</a></li>
             <li><a href="http://lanyucx.github.io/ty/tyPro">挂车系列</a></li>            
             <li><a href="http://lanyucx.github.io/ty/tyPro">生产设备</a></li>
             <li><a href="http://lanyucx.github.io/ty/tyQua1">资质荣誉</a></li>
