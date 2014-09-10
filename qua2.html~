@@ -16,13 +16,13 @@
         <nav>
           <ul>
             <li><a href="http://lanyucx.github.io/ty">网站首页</a></li>
-            <li><a href="http://lanyucx.github.io/ty/tyPro">挂车系列</a></li>            
-            <li><a href="http://lanyucx.github.io/ty/tyPro">生产设备</a></li>
-            <li><a href="http://lanyucx.github.io/ty/tyQua1">资质荣誉</a></li>
-            <li><a href="http://lanyucx.github.io/ty/tyVi">视频</a></li>
-            <li><a href="http://lanyucx.github.io/ty/tyNews1">新闻中心</a></li>
-            <li><a href="http://lanyucx.github.io/ty/tyRec1">人才招聘</a></li>
-            <li><a href="http://lanyucx.github.io/ty/tyUs">联系我们</a></li>           
+            <li><a href="http://lanyucx.github.io/ty/pro">挂车系列</a></li>            
+            <li><a href="http://lanyucx.github.io/ty/pro">生产设备</a></li>
+            <li><a href="http://lanyucx.github.io/ty/qua1">资质荣誉</a></li>
+            <li><a href="http://lanyucx.github.io/ty/vi">视频</a></li>
+            <li><a href="http://lanyucx.github.io/ty/news1">新闻中心</a></li>
+            <li><a href="http://lanyucx.github.io/ty/rec1">人才招聘</a></li>
+            <li><a href="http://lanyucx.github.io/ty/us">联系我们</a></li>           
           </ul>
         </nav>
       </div>
@@ -46,15 +46,17 @@
     </header>
 
     <section>
-   <div class="us">
-     <p>公司名称：鞍山添赢汽车配件制造有限公司</p>
-     <p>联系电话：0412-4643299 0412-4643255</p>
-     <p>邮    箱：</p>
-     <p>邮    编：114100</p>
-     <p>网    址：www.taty.com.cn</p>
-     <p>公司地址：中国辽宁鞍山台安县工业园区</p>
+   <div class="qua_a">
+     <div style="background-image:url(http://lanyucx.github.io/ty/image/1px.jpg);">
+       <a href="http://lanyucx.github.io/qua1">公司资质</a>
+     </div>
+     <div style="background-image:url(http://lanyucx.github.io/ty/image/1px.jpg);">
+       <a href="http://lanyucx.github.io/qua2">公司荣誉</a>
+     </div>
    </div>
-
+   <div class="qua_b">
+      <div class="title_a" style="background-image:url(http://lanyucx.github.io/ty/image/1px.jpg);">公司荣誉</div> 
+   </div>
       <div id="clear"></div>
     </section>
 
