@@ -5,24 +5,24 @@
     <meta charset="utf-8"/>
     <meta name="Keywords" content="鞍山添赢汽车配件制造有限公司"/>
     <meta name="Description" content="鞍山添赢汽车配件制造有限公司"/>
-    <script src="http://lanyucx.github.io/ty/js/jquery-2.0.3.min.js"></script>
-    <script src="http://lanyucx.github.io/ty/js/ty.js"></script>
-    <link rel="stylesheet" href="http://lanyucx.github.io/ty/css/ty.css"/>
+    <script src="/ty/js/jquery-2.0.3.min.js"></script>
+    <script src="/ty/js/ty.js"></script>
+    <link rel="stylesheet" href="/ty/css/ty.css"/>
   </head>
   <body>
-    <header style="background-image:url(http://lanyucx.github.io/ty/image/1px.png);">
-      <div id="menu" style="background-image:url(http://lanyucx.github.io/ty/image/1px.png);">
+    <header style="background-image:url(/ty/image/1px.png);">
+      <div id="menu" style="background-image:url(/ty/image/1px.png);">
         <div id="name">鞍山添赢汽车配件制造有限公司</div>
         <nav>
           <ul>
-            <li><a href="http://lanyucx.github.io/ty">网站首页</a></li>
-            <li><a href="http://lanyucx.github.io/ty/pro">挂车系列</a></li>            
-            <li><a href="http://lanyucx.github.io/ty/pro">生产设备</a></li>
-            <li><a href="http://lanyucx.github.io/ty/qua1">资质荣誉</a></li>
-            <li><a href="http://lanyucx.github.io/ty/vi">视频</a></li>
-            <li><a href="http://lanyucx.github.io/ty/news1">新闻中心</a></li>
-            <li><a href="http://lanyucx.github.io/ty/rec1">人才招聘</a></li>
-            <li><a href="http://lanyucx.github.io/ty/us">联系我们</a></li>           
+            <li><a href="/ty">网站首页</a></li>
+            <li><a href="/ty/pro">挂车系列</a></li>            
+            <li><a href="/ty/pro">生产设备</a></li>
+            <li><a href="/ty/qua1">资质荣誉</a></li>
+            <li><a href="/ty/vi">视频</a></li>
+            <li><a href="/ty/news1">新闻中心</a></li>
+            <li><a href="/ty/rec1">人才招聘</a></li>
+            <li><a href="/ty/us">联系我们</a></li>           
           </ul>
         </nav>
       </div>
@@ -47,18 +47,18 @@
 
     <section>
    <div class="rec_a">
-     <div style="background-image:url(http://lanyucx.github.io/ty/image/1px.jpg);">
-       <a href="http://lanyucx.github.io/ty/tyRec1">招聘信息</a>
+     <div style="background-image:url(/ty/image/1px.jpg);">
+       <a href="/ty/rec1">招聘信息</a>
      </div>
-     <div style="background-image:url(http://lanyucx.github.io/ty/image/1px.jpg);">
-       <a href="http://lanyucx.github.io/ty/tyRec2">人才理念</a>
+     <div style="background-image:url(/ty/image/1px.jpg);">
+       <a href="/ty/rec2">人才理念</a>
      </div>
-     <div style="background-image:url(http://lanyucx.github.io/ty/image/1px.jpg);">
-       <a href="http://lanyucx.github.io/ty/tyRec3">员工福利</a>
+     <div style="background-image:url(/ty/image/1px.jpg);">
+       <a href="/ty/rec3">员工福利</a>
      </div>
    </div>
    <div class="rec_b">
-        <div class="title" style="background-image:url(http://lanyucx.github.io/ty/image/1px.jpg);">人才理念</div>
+        <div class="title" style="background-image:url(/ty/image/1px.jpg);">人才理念</div>
    <p>一、想员工之所想。以公平、公正、价值的方式对待每一个员工，创造并维持一个安全、健康、活力、创新的工作环境；</p>
    <p>二、赢得员工响应。坦诚与有效的沟通是组织发展的必须选择，以品行、业绩、价值作为员工甄选及晋升的基础；</p>
    <p>三、相信员工潜能。当出现岗位空缺时，优先考虑内部人员；</p>
