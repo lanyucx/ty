@@ -3,23 +3,23 @@ layout: base
 ---
     <section>
          <div class="news_a">
-     <div style="background-image:url({{ site.url }}/image/1px.jpg);">
-       <a href="{{ site.url }}/news1">公司新闻</a>
+     <div style="background-image:url(/ty/image/1px.jpg);">
+       <a href="/ty/news1">公司新闻</a>
      </div>
-     <div style="background-image:url({{ site.url }}/image/1px.jpg);">
-       <a href="{{ site.url }}/news2">行业动态</a>
+     <div style="background-image:url(/ty/image/1px.jpg);">
+       <a href="/ty/news2">行业动态</a>
      </div>
-     <div style="background-image:url({{ site.url }}/image/1px.jpg);">
-       <a href="{{ site.url }}/news3">前景展望</a>
+     <div style="background-image:url(/ty/image/1px.jpg);">
+       <a href="/ty/news3">前景展望</a>
      </div>
    </div>
    <div class="news_b">
-     <div class="title" style="background-image:url({{ site.url }}/image/1px.jpg);">行业动态</div>
+     <div class="title" style="background-image:url(/ty/image/1px.jpg);">行业动态</div>
        <p>近日，荷兰一家名为Knapen挂车制造公司展出了一款新型特殊结构组合的超级卡车列车LZV（Longer Heavier Vehicles）用挂车，并且交付客户。该挂车不仅有可移动的地板，其两侧都还配备了双货厢门的结构。
        </p>
        <p>该组合挂车长25.25米，高为4.2米，容积达到154立方米。据悉，该挂车的两侧双货厢们结构让货物的装载更加方便，主要用来进行散货物流运输。
        </p><br/>
-       <img src="{{ site.url }}/image/helan.jpg"></img>
+       <img src="/ty/image/helan.jpg"></img>
    </div>
       <div id="clear"></div>
     </section>
