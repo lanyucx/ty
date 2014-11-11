@@ -1,93 +1,50 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>鞍山添赢汽车配件制造有限公司</title>
-    <meta charset="utf-8"/>
-    <meta name="Keywords" content="鞍山添赢汽车配件制造有限公司"/>
-    <meta name="Description" content="鞍山添赢汽车配件制造有限公司"/>
-    <script src="/ty/js/jquery-2.0.3.min.js"></script>
-    <script src="/ty/js/ty.js"></script>
-    <link rel="stylesheet" href="/ty/css/ty.css"/>    
-  </head>
-<body>
-    <header style="background-image:url(/ty/image/1px.png);">
-      <div id="menu" style="background-image:url(/ty/image/1px.png);">
-        <div id="name">鞍山添赢汽车配件制造有限公司</div>
-        <nav>
-          <ul>
-            <li><a href="/ty">网站首页</a></li>
-            <li><a href="/ty/pro">挂车系列</a></li>            
-            <li><a href="/ty/pro">生产设备</a></li>
-            <li><a href="/ty/qua1">资质荣誉</a></li>
-            <li><a href="/ty/vi">视频</a></li>
-            <li><a href="/ty/news1">新闻中心</a></li>
-            <li><a href="/ty/rec1">人才招聘</a></li>
-            <li><a href="/ty/us">联系我们</a></li>           
-          </ul>
-        </nav>
-      </div>
-      <script>
-        $(function(){
-          var w=$(window).width();
-          var s=w/1366;
-          $('#menu').css('width',w);
-          $('#foot').css('width',w);
-          $('nav').css('margin-left',20*s);
-          $('nav').css('font-size',16*s);
-          $('#name').css('margin-left',50*s);
-          $('#name').css('font-size',22*s); 
-          $('span').css('font-size',16*s);
-          $('#span1').css('margin-left',5*s);
-          $('#span2').css('margin-left',60*s);           
-          $('ul').css('width',730*s); 
-          $('ul li').css('margin-left',30*s);
-        })         
-      </script>
-    </header>
+---
+layout: base
+---
    <div class="main">
-     <img src="/ty/image/index.jpg"/>
+     <img src="{{ site.url }}/image/index.jpg"/>
    </div>
    <section>
    <div class="jianjie">
-     <p class="p0" style="background-image:url(/ty/image/1px.jpg);">Company profile 公司简介</p>
+     <p class="p0" style="background-image:url({{ site.url }}/image/1px.jpg);">Company profile 公司简介</p>
      <p class="p1">鞍山添赢汽车配件制造有限公司位于台安县工业园区，省道102线新台镇，距台安高速出口4公里，地理位置优越，交通十分便利。</p>
      <p>公司占地59000平方米。厂房面积9800平方米，拥有先进的挂车（专用车）生产设备达50余台（套），凭借雄厚的技术实力建成各类专用汽车的规模，是一个集生产制造，科研，销售于一体的专业化挂车（专用车）制造企业。</p>
      <p>公司主营：栏板半挂车，全挂车，箱式半挂车，仓栏式半挂车，集装箱运输半挂车，低平板半挂车，自卸车，罐式车，大型机械设备运输车等百余种，并承接专用车辆的改装和设计以及以旧换新业务。</p>
    </div>
 
    <div class="news">
-     <p class="p2" style="background-image:url(/ty/image/1px.jpg);">News 新闻中心</p>
-     <p><a href="/ty/newsA">青岛重工推出欧力克四系液压缸举升系统</a></p>
-     <p><a href="/ty/news1">鞍山添赢新闻</a></p>
-     <p><a href="/ty/news1">鞍山添赢新闻</a></p>
-     <p><a href="/ty/news1">鞍山添赢新闻</a></p>
-     <p><a href="/ty/news1">鞍山添赢新闻</a></p>
-     <p><a href="/ty/news1">鞍山添赢新闻</a></p>
-     <p><a href="/ty/news1">鞍山添赢新闻</a></p>
+     <p class="p2" style="background-image:url({{ site.url }}/image/1px.jpg);">News 新闻中心</p>
+     <p><a href="{{ site.url }}/newsA">青岛重工推出欧力克四系液压缸举升系统</a></p>
+     <p><a href="{{ site.url }}/news1">鞍山添赢新闻</a></p>
+     <p><a href="{{ site.url }}/news1">鞍山添赢新闻</a></p>
+     <p><a href="{{ site.url }}/news1">鞍山添赢新闻</a></p>
+     <p><a href="{{ site.url }}/news1">鞍山添赢新闻</a></p>
+     <p><a href="{{ site.url }}/news1">鞍山添赢新闻</a></p>
+     <p><a href="{{ site.url }}/news1">鞍山添赢新闻</a></p>
    </div>
 
    <div class="div1">
      <p>挂车系列</p>
-     <a href="/ty/pro">
-       <img src="/ty/image/index1.jpg"/>
+     <a href="{{ site.url }}/pro">
+       <img src="{{ site.url }}/image/index1.jpg"/>
      </a>
    </div>
    <div class="div2">
      <p>添赢汽车配件</p>
-     <a href="/ty/image/index2.jpg">
-       <img src="/ty/image/index2.jpg"/>
+     <a href="{{ site.url }}/image/index2.jpg">
+       <img src="{{ site.url }}/image/index2.jpg"/>
      </a>
    </div>     
    <div class="div2">
      <p>添赢汽车配件</p>
-     <a href="/ty/image/index3.jpg">
-       <img src="/ty/image/index3.jpg"/>
+     <a href="{{ site.url }}/image/index3.jpg">
+       <img src="{{ site.url }}/image/index3.jpg"/>
      </a>
    </div>
    <div class="div2">
      <p>添赢汽车配件</p>
-     <a href="/ty/image/index3.jpg">
-       <img src="/ty/image/index3.jpg"/>
+     <a href="{{ site.url }}/image/index3.jpg">
+       <img src="{{ site.url }}/image/index3.jpg"/>
      </a>
    </div>     
    <script>
@@ -103,11 +60,4 @@
    </script>
       <div id="clear"></div>
     </section>
-    <footer>
-      <div id="foot"> 
-        <span id="span1">Copyright © 2014-2015&nbsp;鞍山添赢汽车配件制造有限公司</span>
-        <span id="span2">辽ICP备10204930号-6</span>
-      </div>
-    </footer>
-  </body>
-</html>
+
