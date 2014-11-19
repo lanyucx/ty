@@ -275,6 +275,7 @@ footer {
   line-height: 36px;
   margin-top: 15px;
   padding-left: 10px;
+  text-align: center;
 }
 
 .news_a a {
@@ -314,7 +315,7 @@ footer {
   line-height: 36px;
   margin-top: 15px;
   margin-bottom: 20px;
-  padding-left: 10px;  
+  padding-left: 10px;
 }
 
 .news_title {
@@ -343,7 +344,7 @@ footer {
   line-height: 36px;
   margin-top: 15px;
   padding-left: 10px;
-  text-align: left;
+  text-align: center;
 }
 
 .rec_b {
