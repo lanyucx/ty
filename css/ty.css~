@@ -106,8 +106,8 @@ footer {
 }
 
 #viA {
-  width:
-  height:
+  width: 650px;
+  height: 366px;
 }
 
 /* tyIndex.html */
