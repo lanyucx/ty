@@ -271,8 +271,8 @@ footer {
 }
 
 .news_a div {
-  height: 40px;
-  line-height: 26px;
+  height: 36px;
+  line-height: 32px;
   margin-top: 15px;
   padding-left: 10px;
 }
