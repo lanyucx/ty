@@ -7,10 +7,13 @@ layout: base
        <a href="{{ site.url }}/basic1">公司简介</a>
      </div>
      <div style="background-image:url({{ site.url }}/image/1px.jpg);">
-       <a href="{{ site.url }}/basic2">社会责任</a>
+       <a href="{{ site.url }}/basic2">产品优势</a>
      </div>
      <div style="background-image:url({{ site.url }}/image/1px.jpg);">
-       <a href="{{ site.url }}/basic3">联系我们</a>
+       <a href="{{ site.url }}/basic3">社会责任</a>
+     </div>
+     <div style="background-image:url({{ site.url }}/image/1px.jpg);">
+       <a href="{{ site.url }}/basic4">联系我们</a>
      </div>
    </div>
    <div class="news_b">

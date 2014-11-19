@@ -7,15 +7,23 @@ layout: base
        <a href="{{ site.url }}/basic1">公司简介</a>
      </div>
      <div style="background-image:url({{ site.url }}/image/1px.jpg);">
-       <a href="{{ site.url }}/basic2">社会责任</a>
+       <a href="{{ site.url }}/basic2">产品优势</a>
      </div>
      <div style="background-image:url({{ site.url }}/image/1px.jpg);">
-       <a href="{{ site.url }}/basic3">联系我们</a>
+       <a href="{{ site.url }}/basic3">社会责任</a>
+     </div>
+     <div style="background-image:url({{ site.url }}/image/1px.jpg);">
+       <a href="{{ site.url }}/basic4">联系我们</a>
      </div>
    </div>
    <div class="news_b">
-     <div class="title" style="background-image:url({{ site.url }}/image/1px.jpg);">社会责任</div>
-       <p>传递正能量，共建文明新台安。</p>
+     <div class="title" style="background-image:url({{ site.url }}/image/1px.jpg);">产品优势</div>
+       <p>公司与区域内同行业企业相比主要有两大竞争优势，一是多品种生产，二是规模化批量生产。公司目前专用车产品主要有六大系列，100多个品种，包括工程修理车系列；军用特种车系列；自卸车系列；厢式保温车、冷藏车系列；翼展车系列；挂车系列。
+       </p>
+       <p>公司具有较为完备的质量监控保证体系，2012年通过了国家IS09002质量体系认证，2012年完成了国家IS09001质量体系的换版工作，同时也顺利通过了CQC质量认证。2012年，公司着力在产品研发和市场开发两方面取得突破。在产品研发方面，在市场开发方面，注重国内、外两个市场的发展。在国内市场方面，寻求扩大合作、同步发展、互利双赢、优势互补，与几大汽车集团建立密切的合作，共享用户信息和市场份额，达到用户在底盘选择、改装、交付、售后服务一条龙，降低用户的购买、使用成本，提高服务水平，取得用户最大的满意度。
+       </p>
+       <p>公司专用车生产是经国家公信部批准的专业车生产企业，企业以新产品、高质量占领市场。企业技术力量和研发能力强。对特种车的研发能力均有明显的优势。 
+　   </p>
    </div>
       <div id="clear"></div>
     </section>
