@@ -18,6 +18,11 @@ body {
   font-weight: 700;
 }
 
+#tai div {
+  float: left;
+  background: #ffffff;
+}
+
 #big {
 border: 5px solid #ffffff;
 position: absolute;
