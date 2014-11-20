@@ -216,50 +216,7 @@ footer {
   background: #434343;
 }
 
-/* tyQuaBase.html */
-
-.qua_b .title_a {
-  margin-top: 15px;
-  height: 30px;
-  line-height: 26px;
-  text-align: left;
-  padding-left: 10px;
-}
-
-.qua_a {
-  float: left;
-  margin-top: 10px;
-  padding: 20px;
-  width: 220px;
-  height: 700px;
-  background: #ECEDEE;
-  text-align: left;
-}
-
-.qua_a div {
-  height: 30px;
-  line-height: 26px;
-  margin-top: 15px;
-  padding-left: 10px;
-}
-
-.qua_a a {
-  text-decoration: none;
-  color: black;
-}
-
-.qua_b {
-  float: left;
-  margin-left: 20px;
-  margin-top: 10px;
-  padding: 20px;
-  width: 700px;
-  height: 700px;
-  background: #ECEDEE;
-}
-
-/* tyNewsBase.html */
-
+/* 侧导航及右侧内容样式 */
 .news_a {
   float: left;
   margin-top: 10px;
@@ -321,54 +278,6 @@ footer {
 .news_title {
   color: #0F3F5B;
   font-weight: bold;
-}
-
-/* tyRecBase.html */
-
-.rec_a {
-  float: left;
-  margin-top: 10px;
-  padding: 20px;
-  width: 220px;
-  height: 700px;
-  background: #ECEDEE; 
-}
-
-.rec_a a {
-  text-decoration: none;
-  color: black;
-}
-
-.rec_a div {
-  height: 38px;
-  line-height: 36px;
-  margin-top: 15px;
-  padding-left: 10px;
-  text-align: center;
-}
-
-.rec_b {
-  float: left;
-  margin-left: 20px;
-  margin-top: 10px;
-  padding: 20px;
-  width: 700px;
-  height: 700px;
-  background: #ECEDEE;
-}
-
-.rec_b .title {
-  text-align: left;
-  height: 38px;
-  line-height: 36px;
-  margin-top: 15px;
-  padding-left: 10px;
-}
-
-.rec_b p {
-  text-align: left;
-  text-indent: 2em;
-  margin-top: 20px;
 }
 
 table {

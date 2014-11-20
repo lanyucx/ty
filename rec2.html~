@@ -2,7 +2,7 @@
 layout: base
 ---
   <section>
-   <div class="rec_a">
+   <div class="news_a">
      <div style="background-image:url({{ site.url }}/image/1px.jpg);">
        <a href="{{ site.url }}/rec1">招聘信息</a>
      </div>
@@ -13,7 +13,7 @@ layout: base
        <a href="{{ site.url }}/rec3">员工福利</a>
      </div>
    </div>
-   <div class="rec_b">
+   <div class="news_b">
         <div class="title" style="background-image:url({{ site.url }}/image/1px.jpg);">人才理念</div>
    <p>一、想员工之所想。以公平、公正、价值的方式对待每一个员工，创造并维持一个安全、健康、活力、创新的工作环境；</p>
    <p>二、赢得员工响应。坦诚与有效的沟通是组织发展的必须选择，以品行、业绩、价值作为员工甄选及晋升的基础；</p>

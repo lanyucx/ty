@@ -2,7 +2,7 @@
 layout: base
 ---
   <section>
-   <div class="rec_a">
+   <div class="news_a">
      <div style="background-image:url({{ site.url }}/image/1px.jpg);">
        <a href="{{ site.url }}/rec1">招聘信息</a>
      </div>
@@ -13,7 +13,7 @@ layout: base
        <a href="{{ site.url }}/rec3">员工福利</a>
      </div>
    </div>
-   <div class="rec_b">
+   <div class="news_b">
         <div class="title" style="background-image:url({{ site.url }}/image/1px.jpg);">招聘信息</div>
    <table border="2">
      <tr>
