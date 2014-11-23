@@ -44,7 +44,7 @@ layout: base
    <div class="div2">
      <p>产品系列</p>
      <a href="{{ site.url }}/pro">
-       <img src="{{ site.url }}/image/index3.jpg"/>
+       <img src="{{ site.url }}/image/index4.jpg"/>
      </a>
    </div>     
    <script>
