@@ -3,7 +3,7 @@ layout: base
 ---
     
     <section>
-         <div class="news_a">
+   <div class="news_a">
      <div style="background-image:url({{ site.url }}/image/1px.jpg);">
        <a href="{{ site.url }}/news1">公司新闻</a>
      </div>
@@ -11,7 +11,10 @@ layout: base
        <a href="{{ site.url }}/news2">行业动态</a>
      </div>
      <div style="background-image:url({{ site.url }}/image/1px.jpg);">
-       <a href="{{ site.url }}/news3">前景展望</a>
+       <a href="{{ site.url }}/news3">视频展示</a>
+     </div>
+     <div style="background-image:url({{ site.url }}/image/1px.jpg);">
+       <a href="{{ site.url }}/news4">前景展望</a>
      </div>
    </div>
    <div class="news_b">
