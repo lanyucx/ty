@@ -226,7 +226,7 @@ footer {
   margin-top: 10px;
   padding: 20px;
   width: 220px;
-  height: 700px;
+  height: 900px;
   background: #ECEDEE;
   text-align:left;
 }
