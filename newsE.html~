@@ -1,7 +1,6 @@
 ---
 layout: base
----
-    
+---    
     <section>
    <div class="news_a">
      <div style="background-image:url({{ site.url }}/image/1px.jpg);">
@@ -34,6 +33,12 @@ layout: base
    </div>
       <div id="clear"></div>
     </section>
+   <script>
+     $(function(){
+       $('.news_a').css('height','1200px;');
+       $('.news_b').css('height','1500px');
+     })
+   </script>
 
 
 
