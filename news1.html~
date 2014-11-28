@@ -31,7 +31,7 @@ layout: base
      <a href="{{ site.url }}/newsD">挂车促进货运高效运输</a>
    </div>
    <div>
-     <a href="{{ site.url }}/news1">公司新闻</a>
+     <a href="{{ site.url }}/newsE">施密茨挂车集团剑指中国市场</a>
    </div>
    <div>
      <a href="{{ site.url }}/news1">公司新闻</a>
