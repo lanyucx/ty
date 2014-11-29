@@ -40,8 +40,8 @@ layout: base
     </section>
    <script>
      $(function(){
-       $('.news_a').css('height','2640px');
-       $('.news_b').css('height','2640px');
+       $('.news_a').css('height','2540px');
+       $('.news_b').css('height','2540px');
      })
    </script>
 
